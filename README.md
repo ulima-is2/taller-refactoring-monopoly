@@ -1,0 +1,1 @@
+Aplicativo Monopoly para mostrar tecnicas de refactoring. Mas informacion en https://www.cs.virginia.edu/~horton/cs494/s05/slides/lab-exercise-refactoring.htm
